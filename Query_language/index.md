@@ -1,6 +1,6 @@
 # 查询语言
 
-本部分介绍InfluxQL，InfluxDB的SQL类查询语言，用于与InfluxDB中的数据进行交互。
+本部分介绍InfluxQL，InfluxDB的SQL类查询语言，用于查询db中的数据。
 
 ## InfluxQL教程
 本部分的前七个文档提供了InfluxQL的教程式介绍。你可以随时下载文档相关的示例数据。
